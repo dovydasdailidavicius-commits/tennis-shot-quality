@@ -1,0 +1,17 @@
+# Raw and processed data are not committed.
+# Source data is CC BY-NC-SA (Jeff Sackmann) and files are large.
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
